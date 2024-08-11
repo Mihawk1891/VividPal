@@ -55,5 +55,5 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/historical-image-restoration.git
+   git clone https://github.com/Mihawk1891/VividPal.git
    cd VividPal
